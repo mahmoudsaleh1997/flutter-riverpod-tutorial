@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "name": "Book",
+      "price": 10.0,
+      "description": "A book about everything",
+      "image": "book.png"
+    },
+    {
+      "name": "Laptop",
+      "price": 999.99,
+      "description": "A high-performance laptop",
+      "image": "laptop.png"
+    },
+    {
+      "name": "Smartphone",
+      "price": 699.99,
+      "description": "A latest model smartphone",
+      "image": "smartphone.png"
+    },
+    {
+      "name": "Headphones",
+      "price": 199.99,
+      "description": "Noise-canceling headphones",
+      "image": "headphones.png"
+    },
+    {
+      "name": "Watch",
+      "price": 249.99,
+      "description": "A stylish smartwatch",
+      "image": "watch.png"
+    },
+    {
+      "name": "Backpack",
+      "price": 49.99,
+      "description": "A durable travel backpack",
+      "image": "backpack.png"
+    },
+    {
+      "name": "Gaming Mouse",
+      "price": 79.99,
+      "description": "An ergonomic gaming mouse",
+      "image": "mouse.png"
+    },
+    {
+      "name": "Keyboard",
+      "price": 129.99,
+      "description": "A mechanical keyboard",
+      "image": "keyboard.png"
+    }
+  ]
+}
